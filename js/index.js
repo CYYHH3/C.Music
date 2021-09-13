@@ -38,7 +38,7 @@ const ap = new APlayer({
             artist: 'fripSide',
             url: url+'/music/only my railgun -version2020-/only my railgun -version2020-.mp3',
             cover: url+'/music/only my railgun -version2020-/only my railgun -version2020- (compressed).jpg',
-            lrc: 'https://api.imjad.cn/cloudmusic/?type=lyric&id=532776373'
+            lrc: url+'/music/only my railgun -version2020-/'
         },
         {
             name: 'Lose Control',
