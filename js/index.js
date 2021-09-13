@@ -34,6 +34,13 @@ const ap = new APlayer({
             lrc: url+'/music/恋のうた/恋のうた (Short Version).lrc'
         },
         {
+            name: 'only my railgun -version2020-',
+            artist: 'fripSide',
+            url: url+'/music/only my railgun -version2020-/only my railgun -version2020-.mp3',
+            cover: url+'/music/only my railgun -version2020-/only my railgun -version2020- (compressed).jpg',
+            lrc: url+'/music/only my railgun -version2020-/'
+        },
+        {
             name: 'Lose Control',
             artist: 'Hedley',
             url: url+'/music/Lose Control/Lose Control.mp3',
