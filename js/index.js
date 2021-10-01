@@ -8,9 +8,9 @@ const ap = new APlayer({
         {
             name: '起风了',
             artist: '周深',
-            url: url+'/music/起风了/起风了.mp3',
-            cover: url+'/music/起风了/起风了-compressed.png',
-            lrc: url+'/music/起风了/起风了.lrc'
+            url: url+'/music/起风了 — 周深/起风了.mp3',
+            cover: url+'/music/起风了 — 周深/起风了-compressed.png',
+            lrc: url+'/music/起风了 — 周深/起风了.lrc'
         },
         {
             name: 'Let Yourself Go',
